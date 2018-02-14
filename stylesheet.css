@@ -39,6 +39,7 @@
 #navText a:hover, a:active { text-decoration: none; color:black }
 
 .hr{ 
+     word-spacing: 30px;
   display:block;
 	margin-bottom:25px;
     border:none;
