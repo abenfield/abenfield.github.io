@@ -46,3 +46,25 @@ animation: glowing 5000ms infinite;
 	background-color:#F8F8FF;
 	width:1200px;
 }
+
+.social-media img{
+margin-left:10px;
+	width:50px;
+}
+
+.footer {
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(182, 29, 142, 0.51);
+  color: white;
+  text-align: center;
+}
+
+.footer img {
+	width:50px;
+	padding-bottom:10px;
+
+}
